@@ -89,6 +89,7 @@ body {
 
 .not-account {
     color: #0095f6;
+    padding: 5px;
 }
 
 .link-blue {
@@ -101,7 +102,7 @@ body {
     align-items: center;
     justify-content: center;
     width: 100%;
-    padding: 1.8rem 0;
+    padding: 2rem 0;
 }
 
 .download {
